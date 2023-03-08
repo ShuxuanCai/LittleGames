@@ -1,0 +1,4 @@
+﻿  WinMain.cpp
+C:\Users\caish\Downloads\X2\X\HelloSpaceShooter\WinMain.cpp(205): warning C4715: 'BulletsToBoss': not all control paths return a value
+C:\Users\caish\Downloads\X2\X\HelloSpaceShooter\WinMain.cpp(289): warning C4715: 'CheckDistance': not all control paths return a value
+  HelloSpaceShooter.vcxproj -> C:\Users\caish\Downloads\X2\X\x64\Debug\HelloSpaceShooter.exe

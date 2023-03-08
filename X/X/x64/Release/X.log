@@ -1,0 +1,3 @@
+﻿  Font.cpp
+C:\Users\lcv2032525\Desktop\PokeGame\PokeGame\X\X\Src\Font.cpp(34,7): error C2220: the following warning is treated as an error
+C:\Users\lcv2032525\Desktop\PokeGame\PokeGame\X\X\Src\Font.cpp(34,7): warning C4189: 'hr': local variable is initialized but not referenced

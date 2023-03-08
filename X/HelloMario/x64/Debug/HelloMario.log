@@ -1,0 +1,10 @@
+﻿  FallState.cpp
+  IdleState.cpp
+  JumpState.cpp
+  Mario.cpp
+  State.cpp
+  WalkState.cpp
+  WinMain.cpp
+  Generating Code...
+     Creating library C:\Users\lcv2032525\Desktop\PokeGame\PokeGame\X\x64\Debug\HelloMario.lib and object C:\Users\lcv2032525\Desktop\PokeGame\PokeGame\X\x64\Debug\HelloMario.exp
+  HelloMario.vcxproj -> C:\Users\lcv2032525\Desktop\PokeGame\PokeGame\X\x64\Debug\HelloMario.exe

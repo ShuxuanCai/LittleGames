@@ -1,0 +1,2 @@
+C:\Users\caish\Downloads\X2\X\x64\Debug\FW1FontWrapper.pdb
+C:\Users\caish\Downloads\X2\X\X\External\FW1FontWrapper\x64\Debug\FW1FontWrapper.pdb

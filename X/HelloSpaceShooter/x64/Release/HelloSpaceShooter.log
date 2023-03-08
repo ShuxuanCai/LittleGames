@@ -1,0 +1,16 @@
+﻿  Boss.cpp
+C:\Users\lcv2032525\Desktop\PokeGame\PokeGame\X\HelloSpaceShooter\Boss.cpp(8,34): warning C4244: '=': conversion from 'uint32_t' to 'float', possible loss of data
+C:\Users\lcv2032525\Desktop\PokeGame\PokeGame\X\HelloSpaceShooter\Boss.cpp(9,36): warning C4244: '=': conversion from 'uint32_t' to 'float', possible loss of data
+  BossBullets.cpp
+C:\Users\lcv2032525\Desktop\PokeGame\PokeGame\X\HelloSpaceShooter\BossBullets.cpp(8,34): warning C4244: '=': conversion from 'uint32_t' to 'float', possible loss of data
+C:\Users\lcv2032525\Desktop\PokeGame\PokeGame\X\HelloSpaceShooter\BossBullets.cpp(9,36): warning C4244: '=': conversion from 'uint32_t' to 'float', possible loss of data
+  Bullet.cpp
+C:\Users\lcv2032525\Desktop\PokeGame\PokeGame\X\HelloSpaceShooter\Bullet.cpp(9,34): warning C4244: '=': conversion from 'uint32_t' to 'float', possible loss of data
+C:\Users\lcv2032525\Desktop\PokeGame\PokeGame\X\HelloSpaceShooter\Bullet.cpp(10,36): warning C4244: '=': conversion from 'uint32_t' to 'float', possible loss of data
+  Enemy.cpp
+C:\Users\lcv2032525\Desktop\PokeGame\PokeGame\X\HelloSpaceShooter\Enemy.cpp(7,34): warning C4244: '=': conversion from 'uint32_t' to 'float', possible loss of data
+C:\Users\lcv2032525\Desktop\PokeGame\PokeGame\X\HelloSpaceShooter\Enemy.cpp(8,36): warning C4244: '=': conversion from 'uint32_t' to 'float', possible loss of data
+  Fighter.cpp
+C:\Users\lcv2032525\Desktop\PokeGame\PokeGame\X\HelloSpaceShooter\Fighter.cpp(11,34): warning C4244: '=': conversion from 'uint32_t' to 'float', possible loss of data
+  WinMain.cpp
+LINK : fatal error LNK1181: cannot open input file 'C:\Users\lcv2032525\Desktop\PokeGame\PokeGame\X\x64\Release\X.lib'
