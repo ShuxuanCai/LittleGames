@@ -1,2 +1,2 @@
-# Pokegame And SpaceShooter
-Some little games in the sln
+# Little games
+Some little games in the sln, like Pokegame And SpaceShooter
